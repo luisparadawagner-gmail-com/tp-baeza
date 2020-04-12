@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//import {HijoComponent} from './hijo/hijo.component';
 
 @Component({
   selector: 'app-root',
